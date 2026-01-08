@@ -1,0 +1,8 @@
+{
+  "name": "Visual Research Orchestrator",
+  "description": "A high-fidelity canvas-based research tool for creating, connecting, and synthesizing research nodes with Gemini-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
